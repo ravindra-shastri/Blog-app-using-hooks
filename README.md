@@ -1,4 +1,4 @@
-<h1> Blog App</h1>
+<h1> Blog App (Using Hooks)</h1>
 
 ## [Live Demo](https://blog-app-six-tawny.vercel.app/)
 
