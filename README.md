@@ -6,7 +6,7 @@ This is a Blog app.
 
 # Getting Started with Create React App
 
-You will find all the information you will need to work on this project in the `blog-app/src` folder.
+You will find all the information you will need to work on this project in the `Blog-app-using-hooks/src` folder.
 - `data.json` contains the collection of information about the producrts
 
 #### Features
