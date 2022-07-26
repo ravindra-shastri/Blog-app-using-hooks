@@ -1,6 +1,6 @@
 <h1> Blog App (Using Hooks)</h1>
 
-## [Live Demo](https://blog-app-six-tawny.vercel.app/)
+## [Live Demo](https://blog-app-using-hooks.vercel.app/)
 
 This is a Blog app.
 
